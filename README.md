@@ -2,7 +2,7 @@
 - 👀 I’m interested in :
   * Digital art and graphic design
   * Learning new technologies
-  * Play football 😛
+  * Playing football 😛
 - 🌱 I’m currently learning :
   * Python
   * C++
