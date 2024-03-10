@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @TeddyLe68
 - 👀 I’m interested in :
-  * Digital art and graphic design
-  * Learning new technologies
   * Playing football 😛
 - 🌱 I’m currently learning :
   * Python
   * C++
-  * HTML & CSS
+  * HTML & CSS and Javascript
+  * Node.js
 - 💞️ I’m looking to collaborate on developing useful and smart software tools for everyone
 - 📫 How to reach me: teddyle2003@gmail.com
 
