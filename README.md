@@ -2,10 +2,10 @@
 - 👀 I’m interested in :
   * Playing football 😛
 - 🌱 I’m currently learning :
-  * Python
-  * C++
-  * HTML & CSS and Javascript
-  * Node.js
+  * Softskill: SCRUM, AI skill, Office basic, Git
+  * Frontend: HTML & CSS and Javascript, Reactjs, Nextjs
+  * Backend: Nodejs(express framework)
+  * Database: MongoDB, SQL server
 - 💞️ I’m looking to collaborate on developing useful and smart software tools for everyone
 - 📫 How to reach me: teddyle2003@gmail.com
 
